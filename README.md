@@ -19,4 +19,4 @@ The prediction.py file contains best model saved as a pickle file for the deploy
 * prediction.py
 
 **The python file can be run using command in terminal**
-* streamlit run prediction.py
+* streamlit run price.py
